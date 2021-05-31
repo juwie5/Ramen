@@ -52,13 +52,21 @@ ul{
     text-align: center;
 } 
 
+a{
+    color: #504969;
+    text-decoration: none;
+}
+
 .navbutton button {
     padding: 11px 41px;
     background-color: #F4AE1A;
     color: #fff;
     border: none;
+    cursor: pointer;
 }
-
+.navimg{
+    cursor: pointer;
+}
 .midsection{
     display: flex;
     flex-direction: row;
